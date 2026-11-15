@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Solok Radjo Worktime",
+  "short_name": "SR Worktime",
+  "description": "Sistem absensi dan manajemen waktu kerja Solok Radjo.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#191c1b",
+  "theme_color": "#191c1b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
